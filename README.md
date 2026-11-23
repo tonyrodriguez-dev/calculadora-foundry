@@ -74,10 +74,6 @@ foundry.toml                   compiler and fuzz settings (350 runs)
 
 Calculadora is an educational project. It has not been audited.
 
-## Credits
-
-Contract and tests written in class for the Blockchain Accelerator course taught by José; this repository holds my copy of the exercise with added documentation.
-
 ## License
 
 MIT
